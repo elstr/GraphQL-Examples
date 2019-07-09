@@ -3,7 +3,7 @@
 const { graphql, buildSchema } = require("graphql");
 
 // Describes what is possibly, and perhaps more importantly what's not possible
-// We query our schema for foo and it's a string
+// We query our schema for a video and it's video object
 const schema = buildSchema(`
     type Video {
         id: ID,
