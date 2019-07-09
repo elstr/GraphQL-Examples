@@ -27,3 +27,5 @@ const videos = [
 
 exports.getVideoById = id =>
   new Promise(resolve => resolve(videos.find(v => v.id === id)));
+
+exports.getVideos = () => new Promise(resolve => resolve(videos))
