@@ -3,7 +3,7 @@ These are some really basic GraphQL examples
 
 ## Getting started
 You need node to exec the examples.  
-To run the examples run in the terminal `node :name of the file`    
+To run the examples, exec in the terminal `node :name of the file`    
 Example: `node /initial/index.js`  
 
 ## Order in chaos
