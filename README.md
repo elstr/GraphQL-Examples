@@ -3,10 +3,10 @@ These are some really basic GraphQL examples
 
 ## Getting started
 You need node to exec the examples.  
-To run the examples, exec in the terminal `node :name of the file`  
+To run the examples, exec in the terminal `node filename`  
 Example: `node /initial/index.js`  
 
-For all the examples, except the ones in `initial`, exec in the terminal `node :name of the file` and open `http://localhost:3000/graphql`
+For all the examples, except the ones in `initial`, exec in the terminal `node filename` and open `http://localhost:3000/graphql`
 
 ## Order in chaos
 
