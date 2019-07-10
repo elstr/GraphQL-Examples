@@ -16,7 +16,7 @@ For all the examples, except the ones in `initial`, exec in the terminal `node f
 4. How to write a schema with js `express/js-graphql-schema.js`
 5. Query videos by specific ID using `args` in `query/query-by-id.js`
 6. How to define required args with `GraphQLNonNull` in `query/non-null.js`
-7. Return a collection of videos with `GraphQLList` in ``query/resolve-all-videos.js`
+7. Return a collection of videos with `GraphQLList` in `query/resolve-all-videos.js`
 8. Mutations! Add a new video to the collection `mutations/mutation.js`
 9. Input types, organize args in mutations: `mutations/input-type.js`
 
